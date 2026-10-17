@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-f1d7522b8d.youyikaisuo.cn/sitemap.xml
